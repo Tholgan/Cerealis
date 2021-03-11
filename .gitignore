@@ -58,3 +58,40 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+*.dll
+Cerealis_Data/sharedassets0.assets.resS
+Cerealis_Data/sharedassets0.assets
+Cerealis_Data/Resources/unity_builtin_extra
+Cerealis_Data/Resources/unity default resources
+Cerealis_Data/resources.assets.resS
+Cerealis_Data/resources.assets
+Cerealis_Data/level0
+Cerealis_Data/globalgamemanagers.assets
+Cerealis_Data/globalgamemanagers
+Cerealis_Data/boot.config
+Cerealis_Data/app.info
+UnityCrashHandler64.exe
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/PackageManagerSettings.asset
+ProjectSettings/GraphicsSettings.asset
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/PackageManagerSettings.asset
+ProjectSettings/GraphicsSettings.asset
+MonoBleedingEdge/etc/mono/mconfig/config.xml
+MonoBleedingEdge/etc/mono/config
+MonoBleedingEdge/etc/mono/browscap.ini
+MonoBleedingEdge/etc/mono/4.5/web.config
+MonoBleedingEdge/etc/mono/4.5/settings.map
+MonoBleedingEdge/etc/mono/4.5/machine.config
+MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx
+MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser
+MonoBleedingEdge/etc/mono/4.0/web.config
+MonoBleedingEdge/etc/mono/4.0/settings.map
+MonoBleedingEdge/etc/mono/4.0/machine.config
+MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx
+MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser
+MonoBleedingEdge/etc/mono/2.0/web.config
+MonoBleedingEdge/etc/mono/2.0/settings.map
+MonoBleedingEdge/etc/mono/2.0/machine.config
+MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser

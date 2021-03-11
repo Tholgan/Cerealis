@@ -670,6 +670,166 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   RenderCamera: {fileID: 1846856073}
   FreezeEnable: 0
+--- !u!1 &352065348 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 274435557791850493, guid: d088cfc0ffd4b5147a12b28de3bfcf73,
+    type: 3}
+  m_PrefabInstance: {fileID: 352065344}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &352065349 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -2313458490065130483, guid: d088cfc0ffd4b5147a12b28de3bfcf73,
+    type: 3}
+  m_PrefabInstance: {fileID: 352065344}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &352065350 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5166890514861615059, guid: d088cfc0ffd4b5147a12b28de3bfcf73,
+    type: 3}
+  m_PrefabInstance: {fileID: 352065344}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &352065351 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 554619835847095740, guid: d088cfc0ffd4b5147a12b28de3bfcf73,
+    type: 3}
+  m_PrefabInstance: {fileID: 352065344}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &352065352 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8513859187771203891, guid: d088cfc0ffd4b5147a12b28de3bfcf73,
+    type: 3}
+  m_PrefabInstance: {fileID: 352065344}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &352065353 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -5568371526223589888, guid: d088cfc0ffd4b5147a12b28de3bfcf73,
+    type: 3}
+  m_PrefabInstance: {fileID: 352065344}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &352065354 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5233112405309087440, guid: d088cfc0ffd4b5147a12b28de3bfcf73,
+    type: 3}
+  m_PrefabInstance: {fileID: 352065344}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &352065355 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 359312179909449575, guid: d088cfc0ffd4b5147a12b28de3bfcf73,
+    type: 3}
+  m_PrefabInstance: {fileID: 352065344}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &352065356
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 352065348}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16a5f949997b66c43a0fd2a04295ceca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  RenderCamera: {fileID: 1846856073}
+  FreezeEnable: 0
+--- !u!114 &352065357
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 352065349}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16a5f949997b66c43a0fd2a04295ceca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  RenderCamera: {fileID: 1846856073}
+  FreezeEnable: 0
+--- !u!114 &352065358
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 352065350}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16a5f949997b66c43a0fd2a04295ceca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  RenderCamera: {fileID: 1846856073}
+  FreezeEnable: 0
+--- !u!114 &352065359
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 352065351}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16a5f949997b66c43a0fd2a04295ceca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  RenderCamera: {fileID: 1846856073}
+  FreezeEnable: 0
+--- !u!114 &352065360
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 352065352}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16a5f949997b66c43a0fd2a04295ceca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  RenderCamera: {fileID: 1846856073}
+  FreezeEnable: 0
+--- !u!114 &352065361
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 352065353}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16a5f949997b66c43a0fd2a04295ceca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  RenderCamera: {fileID: 1846856073}
+  FreezeEnable: 0
+--- !u!114 &352065362
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 352065354}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16a5f949997b66c43a0fd2a04295ceca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  RenderCamera: {fileID: 1846856073}
+  FreezeEnable: 0
+--- !u!114 &352065363
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 352065355}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16a5f949997b66c43a0fd2a04295ceca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  RenderCamera: {fileID: 1846856073}
+  FreezeEnable: 0
 --- !u!1001 &434985352
 PrefabInstance:
   m_ObjectHideFlags: 0
